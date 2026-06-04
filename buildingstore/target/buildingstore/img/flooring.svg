@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 120" width="160" height="120">
+  <ellipse cx="80" cy="104" rx="44" ry="5" fill="#000000" opacity="0.07"/>
+  <g>
+    <!-- три доски ламината стопкой -->
+    <g>
+      <rect x="36" y="44" width="88" height="16" rx="2" fill="#c79a5c"/>
+      <rect x="36" y="56" width="88" height="4" rx="2" fill="#000000" opacity="0.12"/>
+      <path d="M58 47 q10 2 22 0 M70 53 q12 2 26 0" stroke="#a9793f" stroke-width="1.3" fill="none" opacity="0.7"/>
+    </g>
+    <g>
+      <rect x="36" y="63" width="88" height="16" rx="2" fill="#cfa667"/>
+      <rect x="36" y="75" width="88" height="4" rx="2" fill="#000000" opacity="0.12"/>
+      <path d="M52 66 q14 2 28 0 M74 72 q10 2 22 0" stroke="#a9793f" stroke-width="1.3" fill="none" opacity="0.6"/>
+    </g>
+    <g>
+      <rect x="36" y="82" width="88" height="16" rx="2" fill="#c79a5c"/>
+      <rect x="36" y="94" width="88" height="4" rx="2" fill="#000000" opacity="0.12"/>
+      <path d="M60 85 q12 2 24 0 M48 91 q10 2 22 0" stroke="#a9793f" stroke-width="1.3" fill="none" opacity="0.7"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 120" width="160" height="120">
+  <ellipse cx="80" cy="106" rx="40" ry="5" fill="#000000" opacity="0.07"/>
+  <!-- тело рулона -->
+  <path d="M54 40 H106 V98 a26 8 0 0 1 -52 0 Z" fill="#e3c34f"/>
+  <rect x="96" y="40" width="10" height="58" fill="#000000" opacity="0.08"/>
+  <!-- вертикальные «волокна» -->
+  <g stroke="#d4b23f" stroke-width="1.4" opacity="0.8">
+    <line x1="62" y1="44" x2="62" y2="96"/>
+    <line x1="71" y1="44" x2="71" y2="98"/>
+    <line x1="80" y1="44" x2="80" y2="99"/>
+    <line x1="89" y1="44" x2="89" y2="98"/>
+    <line x1="98" y1="44" x2="98" y2="96"/>
+  </g>
+  <!-- торец (свёрнутый рулон) -->
+  <ellipse cx="80" cy="40" rx="26" ry="8.5" fill="#ecd270"/>
+  <ellipse cx="80" cy="40" rx="17" ry="5.4" fill="none" stroke="#d4b23f" stroke-width="1.6"/>
+  <ellipse cx="80" cy="40" rx="8" ry="2.6" fill="none" stroke="#d4b23f" stroke-width="1.6"/>
+</svg>

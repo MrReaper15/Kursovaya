@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 120" width="160" height="120">
+  <ellipse cx="80" cy="106" rx="38" ry="5" fill="#000000" opacity="0.07"/>
+  <!-- основание -->
+  <rect x="62" y="92" width="40" height="9" rx="4" fill="#aab0b8"/>
+  <rect x="62" y="92" width="40" height="3" rx="2" fill="#e7eaee"/>
+  <!-- стойка -->
+  <rect x="74" y="54" width="16" height="40" rx="3" fill="#c2c6cc"/>
+  <rect x="75" y="54" width="4" height="40" fill="#e7eaee"/>
+  <rect x="86" y="54" width="4" height="40" fill="#8b9098"/>
+  <!-- излив (гусак) -->
+  <path d="M82 56 C82 34 120 34 120 60 L120 72" fill="none" stroke="#8b9098" stroke-width="11" stroke-linecap="round"/>
+  <path d="M82 56 C82 34 120 34 120 60 L120 72" fill="none" stroke="#dfe3e8" stroke-width="5" stroke-linecap="round"/>
+  <!-- рычаг -->
+  <rect x="86" y="48" width="26" height="6" rx="3" fill="#c2c6cc"/>
+  <rect x="86" y="48" width="26" height="2.4" rx="1.2" fill="#e7eaee"/>
+  <!-- струя и капля -->
+  <line x1="120" y1="74" x2="120" y2="88" stroke="#6db3e6" stroke-width="3" stroke-linecap="round" opacity="0.9"/>
+  <path d="M120 92 c0 0 -4 4 -4 7 a4 4 0 0 0 8 0 c0 -3 -4 -7 -4 -7 Z" fill="#6db3e6"/>
+</svg>

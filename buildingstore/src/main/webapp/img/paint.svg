@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 120" width="160" height="120">
+  <ellipse cx="80" cy="106" rx="40" ry="5" fill="#000000" opacity="0.07"/>
+  <!-- ручка -->
+  <path d="M60 50 Q80 24 100 50" fill="none" stroke="#9aa0a8" stroke-width="3.5" stroke-linecap="round"/>
+  <!-- ведро -->
+  <path d="M58 48 L102 48 L97 100 a3 3 0 0 1 -3 2.6 H66 a3 3 0 0 1 -3 -2.6 Z" fill="#ced2d7"/>
+  <rect x="58" y="48" width="8" height="54" fill="#ffffff" opacity="0.16"/>
+  <path d="M102 48 L97 100 a3 3 0 0 1 -1 1.6 L93 48 Z" fill="#000000" opacity="0.10"/>
+  <!-- ободок -->
+  <ellipse cx="80" cy="48" rx="22" ry="5.5" fill="#e7eaee"/>
+  <ellipse cx="80" cy="48" rx="22" ry="5.5" fill="none" stroke="#aab0b8" stroke-width="1.4"/>
+  <!-- этикетка -->
+  <path d="M62 60 L98 60 L96 86 L64 86 Z" fill="#ffffff"/>
+  <path d="M62 60 L98 60 L97.4 67 L62.6 67 Z" fill="#bf4d23"/>
+  <rect x="67" y="71" width="13" height="12" rx="1.5" fill="#2f6fb0"/>
+  <rect x="84" y="72" width="9" height="2.6" rx="1.3" fill="#cfcabf"/>
+  <rect x="84" y="77" width="7" height="2.6" rx="1.3" fill="#cfcabf"/>
+  <!-- капля краски на ободке -->
+  <path d="M99 51 q4 6 0 10 q-4 -4 0 -10 Z" fill="#2f6fb0"/>
+</svg>
